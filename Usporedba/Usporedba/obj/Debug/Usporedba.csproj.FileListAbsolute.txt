@@ -1,0 +1,11 @@
+C:\projekt\UsporedbaPodataka\Usporedba\Usporedba\bin\Debug\Usporedba.exe.config
+C:\projekt\UsporedbaPodataka\Usporedba\Usporedba\bin\Debug\Usporedba.exe
+C:\projekt\UsporedbaPodataka\Usporedba\Usporedba\bin\Debug\Usporedba.pdb
+C:\projekt\UsporedbaPodataka\Usporedba\Usporedba\obj\Debug\Usporedba.csprojResolveAssemblyReference.cache
+C:\projekt\UsporedbaPodataka\Usporedba\Usporedba\obj\Debug\Usporedba.csproj.ResolveComReference.cache
+C:\projekt\UsporedbaPodataka\Usporedba\Usporedba\obj\Debug\Usporedba.Form1.resources
+C:\projekt\UsporedbaPodataka\Usporedba\Usporedba\obj\Debug\Usporedba.Properties.Resources.resources
+C:\projekt\UsporedbaPodataka\Usporedba\Usporedba\obj\Debug\Usporedba.csproj.GenerateResource.Cache
+C:\projekt\UsporedbaPodataka\Usporedba\Usporedba\obj\Debug\Usporedba.exe
+C:\projekt\UsporedbaPodataka\Usporedba\Usporedba\obj\Debug\Usporedba.pdb
+C:\projekt\UsporedbaPodataka\Usporedba\Usporedba\obj\Debug\Usporedba.SheetPicker.resources
